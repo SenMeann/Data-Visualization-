@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/a.png</file>
+        <file>Icon/analytics.png</file>
+        <file>Icon/copy.png</file>
+        <file>Icon/cut.png</file>
+        <file>Icon/paste.png</file>
+        <file>Icon/add-page.png</file>
+        <file>Icon/function.png</file>
+        <file>Icon/center.PNG</file>
+        <file>Icon/right.PNG</file>
+        <file>Icon/left.PNG</file>
+        <file>Icon/barchart.png</file>
+        <file>Icon/fillcolor.png</file>
+        <file>Icon/pie-chart.png</file>
+        <file>Icon/line-chart.png</file>
+        <file>Icon/scatter.png</file>
+        <file>IconChart/clusetercolumn.png</file>
+        <file>StyleSheet/stylesheet.qss</file>
+        <file>IconChart/stackedbarchart.png</file>
+        <file>IconChart/cluseterrow.png</file>
+        <file>IconChart/stackedbarchartrow.png</file>
+        <file>Icon/AlignBottom.PNG</file>
+        <file>Icon/AlignMidle.PNG</file>
+        <file>Icon/AlignTop.PNG</file>
+        <file>IconChart/piechart .png</file>
+        <file>IconChart/pie-chart.png</file>
+        <file>IconChart/Duonut.png</file>
+        <file>IconChart/area-chart.png</file>
+        <file>IconChart/lineChart.png</file>
+        <file>IconChart/linescatter.png</file>
+        <file>IconChart/scatter.png</file>
+        <file>IconChart/scatterSmoth.png</file>
+        <file>IconChart/curvechart.png</file>
+        <file>Icon/sine-wave-graphic.png</file>
+    </qresource>
+</RCC>
